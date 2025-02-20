@@ -48,7 +48,8 @@ echo -e "\e[35m
 printf "\n%.0s" {1..1} 
 
 # Welcome message
-echo "${SKY_BLUE}Welcome to KooL's Fedora-Hyprland (2025) Install Script!${RESET}"
+echo "THIS IS A FORK FROM JakooLit installscripts! please check the original one"
+echo "${SKY_BLUE}Welcome to Naverlyn's Fedora-Hyprland (2025) Install Script!${RESET}"
 echo
 echo "${WARNING}ATTENTION: Run a full system update and Reboot first!! (Highly Recommended) ${RESET}"
 echo
